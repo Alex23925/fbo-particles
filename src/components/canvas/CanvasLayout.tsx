@@ -77,7 +77,7 @@ function CanvasLayout({ children }: CanvasLayoutProps) {
             >
                 {children}
                
-                <Perf position={"bottom-right"} />
+                {/* <Perf position={"bottom-right"} /> */}
             </StyledCanvas>
         </>
     );
